@@ -1,0 +1,77 @@
+﻿  Complete bank project.cpp
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(39,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(51,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(184,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(315,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsString.h(363,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(196,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Complete%20bank%20project.cpp')
+      E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(16,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(268,11): warning C4129: 'F': unrecognized character escape sequence
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(31,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(172,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(173,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(174,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(191,10): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Complete%20bank%20project.cpp')
+      E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsAddNewClientScreen.h(26,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUpdateClientScreen.h(29,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsDepositScreen.h(62,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsWithdrawScreen.h(69,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsTotalBalancesScreen.h(39,50): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  (compiling source file 'Complete%20bank%20project.cpp')
+  
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\Complete bank project.cpp(29,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\Complete bank project.cpp(227,22): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(300,1): warning C4715: 'clsBankClient::Find': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(370,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(299,1): warning C4715: 'clsUser::Find': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(61,1): warning C4715: 'clsBankClient::_LoadClientDataFromFile': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(189,1): warning C4715: 'clsUser::GetLoginRegisterRecord': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsBankClient.h(229,1): warning C4715: 'clsBankClient::GetTransferRegisterRecord': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(355,1): warning C4715: 'clsUser::Save': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(274,1): warning C4715: 'clsUser::Find': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsCurrency.h(170,1): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsCurrency.h(192,1): warning C4715: 'clsCurrency::FindByCountry': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsUser.h(53,1): warning C4715: 'clsUser::_LoadUserDataFromFile': not all control paths return a value
+E:\Course 11 - Applecation - ReCodeing\Complete bank project\Complete bank project\clsCurrency.h(42,1): warning C4715: 'clsCurrency::_LoadCurrencysDataFromFile': not all control paths return a value
+  Complete bank project.vcxproj -> E:\Course 11 - Applecation - ReCodeing\Complete bank project\x64\Debug\Complete bank project.exe
